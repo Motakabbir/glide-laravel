@@ -11,6 +11,7 @@
         }
     ],
     "require": {
+        "symfony/http-foundation": "^7.0",
         "league/glide-symfony": "^1.0"
     },
     "require-dev": {
